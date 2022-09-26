@@ -61,6 +61,11 @@ body {
     z-index: 10;
 }
 
+.btn1 {
+    width: 1.5px;
+    left: -1.5px;
+}
+
 .btn.btn2 {
     top: 160px;
     height: 40px;
@@ -73,7 +78,7 @@ body {
 
 .rightSideBtn {
     position: absolute;
-    top: 170px;
+    top: 190px;
     right: -3px;
     width: 3px;
     height: 70px;
