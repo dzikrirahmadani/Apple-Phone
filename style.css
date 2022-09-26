@@ -210,3 +210,14 @@ ion-icon.green {
     height: 100%;
     object-fit: cover;
 }
+
+.lock {
+    opacity: 0;
+    margin-left: 145px;
+    margin-top: 550px;
+    transition: .5s;
+}
+
+.lock:hover {
+    opacity: 1;
+}
